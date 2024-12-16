@@ -13,3 +13,5 @@ build/
 dist/
 .mypy_cache/
 examples/output/*
+*.npy
+*.png
